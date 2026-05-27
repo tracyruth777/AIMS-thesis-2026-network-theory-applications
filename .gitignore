@@ -1,0 +1,15 @@
+*
+!.gitignore
+!README.md
+!notebooks/
+!notebooks/**
+!data/
+!data/processed/
+!data/processed/**
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.pkl
+*.pyc
+*.dta
+*.xlsx
+*.gml
